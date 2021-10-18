@@ -8,7 +8,7 @@ A graphical interface for the Mapello game, using JavaScript and WebGL.
 A project developed by [Diana Freitas](https://github.com/dianaamfr) and [Eduardo Brito](https://github.com/edurbrito).
 *LAIG, MIEIC, FEUP, 2020/2021.*
 
-*The game was developed using Prolog for PLOG course and adapted for this project. The full Prolog game can be consulted [here](https://github.com/dianaamfr/PLOG_FEUP-Mapello).*
+*The full Prolog game can be consulted [here](https://github.com/dianaamfr/PLOG_FEUP-Mapello).*
 
 ## Instructions
 
