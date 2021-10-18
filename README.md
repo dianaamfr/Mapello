@@ -2,7 +2,9 @@
 
 A graphical interface for the Mapello game, using JavaScript and WebGL.
 
-![](/src/images/LAIG3_T01_G03_4.png) | ![](/src/images/LAIG3_T01_G03_3.png) |
+![](demo.gif)                                  
+
+|![](/src/images/LAIG3_T01_G03_4.png) | ![](/src/images/LAIG3_T01_G03_3.png) |
 |----|----|
 
 A project developed by [Diana Freitas](https://github.com/dianaamfr) and [Eduardo Brito](https://github.com/edurbrito).
