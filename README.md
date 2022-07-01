@@ -2,6 +2,9 @@
 
 A graphical interface for the Mapello game, using JavaScript and WebGL.
 
+## Brief
+The Mapello board game with a customizable user interface. The interface allows the user to set his favorite scenario, light configuration and camera. It also provides the possibility to play against the computer, replay the game until the current moment or to undo his last move.
+
 ![](demo.gif)                                  
 
 |![](/src/images/LAIG3_T01_G03_4.png) | ![](/src/images/LAIG3_T01_G03_3.png) |
